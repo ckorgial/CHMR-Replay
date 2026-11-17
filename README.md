@@ -182,19 +182,9 @@ verify.py               # source-based mathematical verification
 tests/test_rg.py        # unit tests
 protocol.json           # seeds and protocol
 detector_blobs.json     # pinned input hashes
-CITATION.cff            # GitHub citation metadata
-CITATION.bib            # BibTeX for companion technical report
 ```
 
-## 8. Companion technical report and citation
-
-**Christos Korgialas**, *Horizon-Matched Rolling-Origin Replay for Lead-Vehicle Range Forecasting During Track Loss: Synthetic and KITTI Evaluation*, technical report, ResearchGate, 2026. **DOI: pending.**
-
-The technical report is the full methodological and experimental reference for this code. Its direct ResearchGate publication URL has not been independently verified and is therefore intentionally **not fabricated**. When the report page and DOI are assigned, insert the verified ResearchGate URL here and add the valid DOI to `CITATION.cff` and `CITATION.bib`. **Do not use the string `pending` as a DOI identifier.**
-
-For citation in LaTeX, use the entry `korgialas2026horizonmatched` in [`CITATION.bib`](CITATION.bib). The `CITATION.cff` file enables GitHub's *Cite this repository* menu.
-
-## 9. Publishing the repository
+## 8. Publishing the repository
 
 Choose and add the code license appropriate to your ownership and desired reuse permissions before making the repository public. No open-source license is asserted by this package. To create the repository, run:
 
