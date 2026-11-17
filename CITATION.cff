@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the companion technical report."
+title: "CHMR-Replay: reproducible lead-vehicle range forecasting experiments"
+type: software
+authors:
+  - family-names: Korgialas
+    given-names: Christos
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Korgialas
+      given-names: Christos
+  title: "Horizon-Matched Rolling-Origin Replay for Lead-Vehicle Range Forecasting During Track Loss: Synthetic and KITTI Evaluation"
+  year: 2026
+  notes: "ResearchGate technical report; DOI pending; publication page URL to be added after verification."
+references:
+  - type: report
+    title: "Horizon-Matched Rolling-Origin Replay for Lead-Vehicle Range Forecasting During Track Loss: Synthetic and KITTI Evaluation"
+    authors:
+      - family-names: Korgialas
+        given-names: Christos
+    year: 2026
+    notes: "ResearchGate technical report; DOI pending."
